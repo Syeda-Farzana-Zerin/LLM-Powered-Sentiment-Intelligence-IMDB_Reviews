@@ -63,9 +63,6 @@ Streamlit Analytics Dashboard
 ---
 
 ## 📁 Repository Structure
-
-
-
 .
 ├── Sentiment.py # Streamlit LLM dashboard (EDA, inference, XAI)
 ├── train_Xformers.py # Batch inference & evaluation pipeline
@@ -117,25 +114,24 @@ Review,Sentiment
 "Great experience and service",positive
 "Terrible quality and support",negative
 
-🛠️ Installation
+## 🛠️ Installation
 pip install streamlit torch transformers pandas numpy matplotlib seaborn scikit-learn
 
 
 ✔ Compatible with Python 3.8+
 
-▶️ Run the LLM Dashboard
+##  Run the LLM Dashboard
 streamlit run Sentiment.py
-
 
 This launches a full-stack LLM analytics interface in your browser.
 
-🧪 Batch Inference & Evaluation
+## 🧪 Batch Inference & Evaluation
 python train_Xformers.py
 
 
 Generates model-specific prediction files for benchmarking and comparison.
 
-📈 Model Benchmarking
+## 📈 Model Benchmarking
 
 The platform compares models across:
 
@@ -149,7 +145,7 @@ Exportable evaluation metrics
 
 Designed for model selection and research benchmarking.
 
-🎯 Ideal For
+## 🎯 Ideal For
 
 AI / ML Engineer portfolios
 
