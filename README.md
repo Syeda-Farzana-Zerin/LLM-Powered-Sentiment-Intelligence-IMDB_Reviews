@@ -109,12 +109,12 @@ CSV files must contain:
 - **Review** – input text
 - **Sentiment** – ground truth (`positive` / `negative`)
 
-```csv
-Review,Sentiment
+## 📁 Review,Sentiment
+
 "Great experience and service",positive
 "Terrible quality and support",negative
 
-## 🛠️ Installation
+## 📁 🛠️ Installation 
 pip install streamlit torch transformers pandas numpy matplotlib seaborn scikit-learn
 
 
