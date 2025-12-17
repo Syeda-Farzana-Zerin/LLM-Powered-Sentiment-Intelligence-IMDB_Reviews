@@ -19,6 +19,21 @@ Designed for **research, applied ML, and industry-facing demos**.
 
 ---
 
+# 📸 Application Screenshots
+
+<p align="center">
+  <img src="1.jpg" width="900">
+</p>
+
+<p align="center">
+  <img src="2.jpg" width="900">
+</p>
+
+<p align="center">
+  <img src="3.jpg" width="900">
+</p>
+
+
 ## 🤖 LLM & Transformer Stack
 
 This platform supports multiple **state-of-the-art Transformer models**:
