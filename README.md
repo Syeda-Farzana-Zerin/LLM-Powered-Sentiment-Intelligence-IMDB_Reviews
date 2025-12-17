@@ -7,8 +7,7 @@ Designed for **research, applied ML, and industry-facing demos**.
 
 ---
 
-## 🔑 Highlights (Why Recruiters Care)
-
+## 🔑 Highlights 
 - 🧠 **LLM-style Transformers** for sentiment understanding
 - 📊 **Interactive analytics dashboard**
 - 🔍 **Explainable AI (XAI)** for model transparency
